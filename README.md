@@ -1,4 +1,4 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — AURORA
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
@@ -6,21 +6,15 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+|Joanna MORIM| morimjoetu      |  CREA2 |
+|Emma POTEL  | emma-potel      |   //   |
 
-### Répartition du travail
-
-_Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
-
-- **[Nom 1] →**
-- **[Nom 2] →**
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Thème : Les cultures du pacifique
+- **En une phrase : AURORA, un festival célébrant les cultures du pacifique à travers la musique, la danse, l'artisanal et la gastronomie.
+- **Blind test envisagé : trouve la réponse correspondante à l'image
 
 ## Lancer le projet
 
